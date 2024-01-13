@@ -1,1 +1,1 @@
-WIP. Python autoclicker script that roughly simulates human clicking variations with randomness. This project is for academic purposes only.
+Python autoclicker script that roughly simulates human clicking variations with randomness. This project is for academic purposes only.
